@@ -9,12 +9,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Una pequen exlpicaion de como funcionan los circuitos integrados al intenter componer varias formas de soluciones en cada pasa
 
 ## How to test
 
-Explain how to use your project
+Connectar todos los pines a distintas senales individuales capaces de crear pulsos y trayectorias distinguidas por su ritmo de cambio y frecuencia en accion.
+
+Todas las salidas son filtradas y adpatadas a cambios en la tolerancia de los materials.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1x botton SPST
+1x boton SPDT
+1x luz led parpadeante y resplandesciente
+2x teclados moviles con pantalla tactil LCD
